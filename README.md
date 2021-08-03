@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything...teach me something!
-- 📫 How to reach me ... here
+- 📫 You can reach me here
 
 <!---
 eleoric/eleoric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
