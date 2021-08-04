@@ -17,7 +17,7 @@ last_month = '07'
 
 # create new folder to store files
 print("Creating new folder: 2021-" + last_month)
-folder_path = r'C:\Users\oozew\Desktop\Hindawi\Monthly Runs\DataSalon\2021\2021-' + last_month
+folder_path = r'C:\Users\oozew\Desktop\' + last_month
 Path(folder_path).mkdir(parents=True, exist_ok=True)
 
 # SQL code to run
